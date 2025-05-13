@@ -1,0 +1,21 @@
+.assignment {
+  margin-bottom: 40px;
+}
+
+.assignment-img {
+  width: 800px;
+  height: 600px;
+  object-fit: cover;
+  display: block;
+}
+
+.assignment-link {
+  display: block;
+  margin-top: 10px;
+  font-size: 18px;
+  color: #00a;
+  text-decoration: none;
+}
+.assignment-link:hover {
+  text-decoration: underline;
+}
